@@ -31,3 +31,18 @@ Redux is a Predictable state container for Javascript Apps
 
 <img width="440" alt="image" src="https://github.com/mainak0907/Redux-State-Management-Lib/assets/88925745/81964a95-48f4-41d9-866e-dd8e9aa40e1e">
 
+# Redux Store
+
+<img width="426" alt="image" src="https://github.com/mainak0907/Redux-State-Management-Lib/assets/88925745/2f74093b-f962-4d1a-b935-fbcce4849267">
+
+# Middleware 
+
+<img width="810" alt="image" src="https://github.com/mainak0907/Redux-State-Management-Lib/assets/88925745/9f1aeeb4-fcf8-461f-9824-3f8baf852ea0">
+
+# Important Concepts
+
+<ol>
+  <li> Immer Lib for Nested State</li>
+  <li> Multiple Reducers and Combining them </li>
+  <li> Applying Middleware</li>
+</ol>
