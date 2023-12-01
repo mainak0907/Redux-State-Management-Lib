@@ -46,3 +46,14 @@ Redux is a Predictable state container for Javascript Apps
   <li> Multiple Reducers and Combining them </li>
   <li> Applying Middleware</li>
 </ol>
+
+# Async Action Creators 
+
+<img width="257" alt="image" src="https://github.com/mainak0907/Redux-State-Management-Lib/assets/88925745/8ec73e24-694a-4a18-b831-565c6e4d0e61">
+
+# Redux Toolkit Folder Structure 
+
+1. app folder has the store.js file
+2. In RTK , every feature of the application is kept in the features folder, and every feature is a folder inside it.
+3. Inside a particular feature folder, RTK has the convention of combining the reducers and actions together, so every file should end with the 'Slice' suffix.
+
