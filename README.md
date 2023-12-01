@@ -1,4 +1,10 @@
 # Redux-State-Management-Lib
+
+## This Repo covers code for -
+1. Core Redux
+2. Redux Toolkit
+3. React-Redux
+   
 Redux is a Predictable state container for Javascript Apps
 
 <img width="833" alt="image" src="https://github.com/mainak0907/Redux-State-Management-Lib/assets/88925745/4e35fa48-d5be-4d54-88bc-e5279b697e9a">
